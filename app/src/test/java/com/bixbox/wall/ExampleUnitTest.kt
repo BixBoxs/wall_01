@@ -1,4 +1,4 @@
-package com.bixbox.wall_01
+package com.bixbox.wall
 
 import org.junit.Test
 
